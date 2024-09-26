@@ -1,0 +1,29 @@
+# Dépendances
+node_modules/
+
+# Fichiers générés par le système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de log
+*.log
+
+# Dossier de pièces jointes
+uploads/
+
+# Fichier de données JSON
+notes.json
+
+# Fichiers d'environnement
+.env
+
+# Fichiers de build
+dist/
+build/
+
+# Fichiers de couverture de test
+coverage/
+
+# Fichiers temporaires
+*.tmp
+*.temp
